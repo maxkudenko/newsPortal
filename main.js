@@ -22,7 +22,7 @@ writeNews('sport', 'ronaldo');
 writeNews('it', 'html');
 writeNews('sport', 'messi');
 writeNews('it', 'css');
-unsubscribe(2, 1);
+unsubscribe('2', '1');
 
 
 function createUser(name, id) {
