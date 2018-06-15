@@ -17,7 +17,7 @@ subscribe('1', '1');
 subscribe('2', '1');
 subscribe('1', '2');
 writeNews('sport', 'world cup');
-writeNews('it', 'how to learn js');g
+writeNews('it', 'how to learn js');
 writeNews('sport', 'ronaldo');
 writeNews('it', 'html');
 writeNews('sport', 'messi');
